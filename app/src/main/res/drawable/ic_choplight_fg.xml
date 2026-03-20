@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Handle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 42,58 L 66,58 L 66,90 C 66,92.2 64.2,94 62,94 L 46,94 C 43.8,94 42,92.2 42,90 Z" />
+        
+    <!-- Button -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,67 A 3.5,3.5 0 0,1 54,74 A 3.5,3.5 0 0,1 54,67" />
+
+    <!-- Neck -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 36,46 L 72,46 L 66,58 L 42,58 Z" />
+
+    <!-- Head -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 40,34 L 68,34 C 70.2,34 72,35.8 72,38 L 72,44 L 36,44 L 36,38 C 36,35.8 37.8,34 40,34 Z" />
+
+    <!-- Center Ray -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 54,16 L 54,26" />
+
+    <!-- Left Ray -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 33,21 L 41,29" />
+
+    <!-- Right Ray -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 75,21 L 67,29" />
+</vector>

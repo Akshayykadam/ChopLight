@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChopLight</string>
+    <string name="service_channel_name">Gesture Detection</string>
+
+    <!-- QS Tiles -->
+    <string name="qs_tile_snapmotion">SnapMotion</string>
+</resources>
